@@ -1,0 +1,4 @@
+﻿  sa-mp-cheat.cpp
+C:\Users\dinon\source\repos\sa-mp-cheat\sa-mp-cheat\sa-mp-cheat.cpp(50,41): warning C4312: 'reinterpret_cast': conversion from 'const DWORD' to 'LPCVOID' of greater size
+C:\Users\dinon\source\repos\sa-mp-cheat\sa-mp-cheat\sa-mp-cheat.cpp(61,42): warning C4312: 'reinterpret_cast': conversion from 'const DWORD' to 'LPVOID' of greater size
+  sa-mp-cheat.vcxproj -> C:\Users\dinon\source\repos\sa-mp-cheat\x64\Debug\sa-mp-cheat.exe
